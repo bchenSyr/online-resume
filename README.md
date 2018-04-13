@@ -1,7 +1,6 @@
 # online-resume
-
-· Developed an interactive and fully responsive resume page
-· Used jQuery to reads all data from a JSON file and then dynamically modifies the DOM to display the information
+ - Developed an interactive and fully responsive resume page
+ - Used jQuery to reads all data from a JSON file and then dynamically modifies the DOM to display the information
 
 ## Run instruction
 
